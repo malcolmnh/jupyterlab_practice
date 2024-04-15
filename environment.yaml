@@ -1,0 +1,7 @@
+name: assn7_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: /Users/Malcolm/Applications/miniconda3/envs/assn7_env
